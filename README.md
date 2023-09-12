@@ -2,6 +2,7 @@
 Data Analysis to find relevant patterns and facts
 
 This is the dataset you'll work with.
+https://docs.google.com/spreadsheets/d/1kEBwHUrAaRrysL0o5oHDXyiHZLmnj3Wx/edit#gid=57182323
 
 Task 1: You need to analyze the dataset given using the analytic tool that you prefer and find out a relevant pattern or fact on your own. The pattern must be unique, solid and backed with proper analytical inferences.
 
