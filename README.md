@@ -1,5 +1,5 @@
 # Forbes_Data_Analysis
-Data Analysis to find relevant patterns and facts
+Data Analysis to find relevant patterns and facts of Forbe's highest paid athletes from 1990-2000
 
 This is the dataset you'll work with.
 https://docs.google.com/spreadsheets/d/1kEBwHUrAaRrysL0o5oHDXyiHZLmnj3Wx/edit#gid=57182323
